@@ -1,10 +1,10 @@
-# What is Featureform
+# What is Featureform?
 
 ![](.gitbook/assets/FF_hero_detailed-15.png)
 
 Featureform is a **virtual feature store**. It enables data scientists to **define**, **manage**, and **serve** their ML model's features. Featureform sits **atop your existing infrastructure** and orchestrates it to work like a [traditional feature store](https://www.featureform.com/post/feature-stores-explained-the-three-common-architectures).
 
-By using Featureform, a data science team can solve the organizational problems:
+By using Featureform, a data science team can solve the following organizational problems:
 
 * **Facilitate Deployment** Once a feature is ready to be deployed, Featureform will orchestrate your data infrastructure to make it ready in production. Using the Featureform API, you won't have to worry about the idiosyncrasies of your heterogeneous infrastructure (beyond their transformation language).
 * **Enhance Collaboration** Featureform ensures that transformations, features, labels, and training sets are defined in a standardized form, so they can easily be shared, re-used, and understood across the team.
